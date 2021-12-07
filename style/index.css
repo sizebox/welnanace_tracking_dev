@@ -1,3 +1,34 @@
 .flex flex-wrap{
     background-color: green;
 }
+
+#form {
+    background-color: #FFF;
+    height: 600px;
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 0px;
+   }
+   
+   label {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    color: #333;
+    height: 40px;
+    width: 400px;
+    margin-top: 30px;
+    margin-left: 30px;
+    text-align: right;
+    clear: both;
+   }
+   input {
+    height: 20px;
+    width: 300px;
+    border: 1px solid #000;
+    margin-top: 10px;
+    float: left;
+   }
